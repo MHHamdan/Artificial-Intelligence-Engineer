@@ -1,0 +1,26 @@
+Process,Model Name,F1 Scores,Range of F1 Scores,Std Deviation of F1 Scores
+Bag Of Words with NLTK Stemming,Linear Discriminant Analysis,"[0.98, 0.99, 0.99, 0.99, 1.0]",0.98-1.0,0.0070710680000000015
+Bag Of Words with NLTK Stemming,Stochastic Gradient Descent,"[0.96, 0.98, 0.99, 1.0, 1.0]",0.96-1.0,0.016733201
+Bag Of Words with NLTK Stemming,XG Boost,"[0.95, 0.97, 0.99, 0.99, 1.0]",0.95-1.0,0.02
+Bag Of Words with NLTK Stemming,Support Vector Machine,"[0.95, 0.97, 0.99, 0.99, 1.0]",0.95-1.0,0.02
+Bag Of Words with NLTK Stemming,Logistic Regression,"[0.95, 0.98, 0.99, 1.0, 1.0]",0.95-1.0,0.020736441
+TFIDF with NLTK Stemming,Binomial Naive Bayes Classifier,"[0.92, 0.98, 0.99, 0.99, 1.0]",0.92-1.0,0.032093613071762415
+TFIDF with NLTK Stemming,Logistic Regression,"[0.95, 0.97, 1.0, 1.0, 1.0]",0.95-1.0,0.0230217288664427
+TFIDF with NLTK Stemming,Decission Tree,"[0.93, 0.95, 0.98, 0.98, 1.0]",0.93-1.0,0.027748873851023204
+TFIDF with NLTK Stemming,Random Forest,"[0.95, 0.98, 0.99, 0.99, 1.0]",0.95-1.0,0.01923538406167136
+TFIDF with NLTK Stemming,XG Boost,"[0.96, 0.97, 0.97, 0.99, 1.0]",0.96-1.0,0.016431676725154998
+TFIDF with NLTK Stemming,Stochastic Gradient Descent,"[0.97, 0.97, 0.99, 0.99, 1.0]",0.97-1.0,0.01341640786499875
+TFIDF with NLTK Stemming,Gausian Process,"[0.94, 0.97, 0.99, 0.99, 1.0]",0.94-1.0,0.023874672772626664
+TFIDF with NLTK Stemming,K Nearst Neighbour,"[0.94, 0.96, 0.96, 0.97, 1.0]",0.94-1.0,0.021908902300206663
+TFIDF with NLTK Stemming,Linear Discriminant Analysis,"[0.93, 0.94, 0.96, 0.96, 1.0]",0.93-1.0,0.026832815729997468
+TFIDF with NLTK Stemming,Support Vector Machine,"[0.41, 0.51, 0.58, 0.64, 0.66]",0.41-0.66,0.10222524150130438
+Ngram with NLTK Stemming,Binomial Naive Bayes Classifier,"[0.93, 0.97, 0.99, 0.99, 1.0]",0.93-1.0,0.02792848008753786
+Ngram with NLTK Stemming,Logistic Regression,"[0.93, 0.98, 0.99, 0.99, 1.0]",0.93-1.0,0.027748873851023193
+Ngram with NLTK Stemming,Decission Tree,"[0.92, 0.92, 0.95, 0.98, 1.0]",0.92-1.0,0.03577708763999662
+Ngram with NLTK Stemming,Random Forest,"[0.9, 0.93, 0.93, 0.95, 1.0]",0.9-1.0,0.03701351104664348
+Ngram with NLTK Stemming,XG Boost,"[0.94, 0.95, 0.96, 0.98, 1.0]",0.94-1.0,0.024083189157584613
+Ngram with NLTK Stemming,Stochastic Gradient Descent,"[0.96, 0.97, 0.99, 0.99, 1.0]",0.96-1.0,0.016431676725154998
+Ngram with NLTK Stemming,Gausian Process,"[0.93, 0.98, 0.99, 0.99, 1.0]",0.93-1.0,0.027748873851023193
+Ngram with NLTK Stemming,K Nearst Neighbour,"[0.93, 0.93, 0.95, 0.99, 1.0]",0.93-1.0,0.03316624790355398
+Ngram with NLTK Stemming,Linear Discriminant Analysis,"[0.83, 0.96, 0.97, 0.98, 0.98]",0.83-0.98,0.06426507605223852
+Ngram with NLTK Stemming,Support Vector Machine,"[0.41, 0.41, 0.54, 0.59, 0.76]",0.41-0.76,0.1454991408909345
